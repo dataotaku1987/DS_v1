@@ -1,6 +1,4 @@
-io
 pandas
 numpy
 streamlit
 plotly
-plotly.express
